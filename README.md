@@ -7,7 +7,10 @@ The idea behind this project was to build an application where users could track
 https://sandkampwoodworks.netlify.app/
 
 <img width="1033" alt="Screen Shot 2022-06-29 at 3 28 46 PM" src="https://user-images.githubusercontent.com/62025065/176520076-4cfe1f7a-387d-4bad-9316-2ee926e98afe.png">
+
+
 ## How It's Made:
+
 
 **Tech used:** HTML, CSS, JavaScript
 
