@@ -1,6 +1,5 @@
 
 # Sandkamp Woodworks
-The idea behind this project was to build an application where users could track adventure motorcycling routes that they had rode on.
 
 **Link to project:** 
 
